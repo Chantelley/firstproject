@@ -1,0 +1,152 @@
+* {
+    margin: 0;
+    color: seashell;
+    font-family: 'Raleway', sans-serif;
+    font-weight: 200;
+    
+}
+
+header {
+    
+    color: rgb(36, 63, 42);
+    text-align: center;
+    
+    
+    
+  
+}
+
+body {
+    width: 960px;
+    margin: 0 auto;
+    background-color: rgb(134, 126, 7);
+    border: 13px double rgb(126, 49, 30);
+    font-size: 14px;
+    padding: auto;
+
+}
+
+
+
+header img {
+    height: 90px;
+    display: center;
+    justify-content: center;
+    text-align: center;
+    
+}
+
+section {
+    margin: .5rem 0;
+}
+.python {
+    height: 170px;
+    width: 170px;
+}
+
+.javapic {
+    width: 170px;
+    height: auto;
+}
+.biopicture {
+    width: 150px;
+    height: auto;
+}
+
+main {
+    height: auto;
+    
+    
+}
+#bio {
+    background-color: rgb(53, 47, 29);
+    height: auto;
+    display: flex;
+    padding: 0;
+    
+    
+
+}
+#name-date {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 1rem;
+    font-size: larger;
+    
+}
+#bio-choose {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    margin-left: .5rem;
+}
+#choose-list {
+    padding: .85rem;
+    background-color: rgb(53, 47, 29);
+    font-weight: 100;
+}
+#choose-list h4 {
+    margin-bottom: 1rem;
+}
+
+#tech {
+    background-color: rgb(53, 47, 20);
+    height: 300px;
+    display: flex;
+    justify-content: space-between;
+    padding: 0;
+    margin: 0;
+    
+    
+
+}
+
+figure {
+    width: 10rem;
+    text-align: center;
+    font-size: small;
+
+}
+
+figure img{
+    height: 10rem;
+}
+figcaption {
+    background-color: rgb(23, 41, 31);
+    padding: .5rem;
+    position: relative;
+    bottom: 1.5rem;
+}
+
+#interest h2{
+    background-color: rgb(53, 47, 20);
+    height: auto;
+    margin-bottom: 1rem;
+
+}
+.greyBox {
+    background-color: rgb(53, 47, 20);
+    font-weight: 100;
+    padding: 1rem;
+}
+
+.greyBox p {
+    margin-top: .75rem;
+}
+
+h2, h4 {
+    color: seashell;
+    font-weight: 500;
+}
+#copyright {
+  color: rgb(16, 16, 17);
+  background-color: rgb(158, 167, 81); 
+  justify-content: center;
+  text-align: center;
+}
+
+
+
+
+
